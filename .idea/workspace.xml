@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/CompareTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/SequenceEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/TimeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/ExtraLongFactorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/FindDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/CompareTriplets.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,23 +29,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/TimeConversion.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FindDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SequenceEquation.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ExtraLongFactorials.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +97,9 @@
         <option value="$PROJECT_DIR$/src/com/ansou/algo/CompareTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/TimeConversion.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/SequenceEquation.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/FindDigits.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/ExtraLongFactorials.java" />
       </list>
     </option>
   </component>
@@ -128,7 +143,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557848115987" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557928339581" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -152,9 +167,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SequenceEquation">
-    <configuration name="BirthdayCakeCandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.BirthdayCakeCandles" />
+  <component name="RunManager" selected="Application.ExtraLongFactorials">
+    <configuration name="ExtraLongFactorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.ExtraLongFactorials" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -166,8 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.CompareTriplets" />
+    <configuration name="FindDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.FindDigits" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -179,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniMaxSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.MiniMaxSum" />
+    <configuration name="JumpingOnTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.JumpingOnTheClouds" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -227,19 +242,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.MiniMaxSum" />
-      <item itemvalue="Application.BirthdayCakeCandles" />
-      <item itemvalue="Application.CompareTriplets" />
       <item itemvalue="Application.TimeConversion" />
       <item itemvalue="Application.SequenceEquation" />
+      <item itemvalue="Application.JumpingOnTheClouds" />
+      <item itemvalue="Application.FindDigits" />
+      <item itemvalue="Application.ExtraLongFactorials" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtraLongFactorials" />
+        <item itemvalue="Application.FindDigits" />
+        <item itemvalue="Application.JumpingOnTheClouds" />
         <item itemvalue="Application.SequenceEquation" />
         <item itemvalue="Application.TimeConversion" />
-        <item itemvalue="Application.CompareTriplets" />
-        <item itemvalue="Application.BirthdayCakeCandles" />
-        <item itemvalue="Application.MiniMaxSum" />
       </list>
     </recent_temporary>
   </component>
@@ -258,12 +273,12 @@
       <workItem from="1554357418701" duration="179000" />
       <workItem from="1554373974999" duration="1141000" />
       <workItem from="1556364663350" duration="574000" />
-      <workItem from="1556365983278" duration="22229000" />
+      <workItem from="1556365983278" duration="26542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42310000" />
+    <option name="totallyTimeSpent" value="46623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="6" />
@@ -444,16 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/CompareTriplets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -477,8 +482,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SequenceEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FindDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ExtraLongFactorials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
