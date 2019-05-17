@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/AppendAndDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/SherlockAndSquares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,14 +26,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/AppendAndDelete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="315">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding>
                 <element signature="e#872#873#0" expanded="true" />
                 <element signature="e#908#909#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SherlockAndSquares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/com/ansou/algo/FindDigits.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/ExtraLongFactorials.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/AppendAndDelete.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/SherlockAndSquares.java" />
       </list>
     </option>
   </component>
@@ -121,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558037348636" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558121415722" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -145,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppendAndDelete">
+  <component name="RunManager" selected="Application.SherlockAndSquares">
     <configuration name="AppendAndDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ansou.algo.AppendAndDelete" />
       <module name="AlghoTraining" />
@@ -198,8 +214,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SequenceEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.SequenceEquation" />
+    <configuration name="SherlockAndSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.SherlockAndSquares" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -220,19 +236,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.SequenceEquation" />
       <item itemvalue="Application.JumpingOnTheClouds" />
       <item itemvalue="Application.FindDigits" />
       <item itemvalue="Application.ExtraLongFactorials" />
       <item itemvalue="Application.AppendAndDelete" />
+      <item itemvalue="Application.SherlockAndSquares" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SherlockAndSquares" />
         <item itemvalue="Application.AppendAndDelete" />
         <item itemvalue="Application.ExtraLongFactorials" />
         <item itemvalue="Application.FindDigits" />
         <item itemvalue="Application.JumpingOnTheClouds" />
-        <item itemvalue="Application.SequenceEquation" />
       </list>
     </recent_temporary>
   </component>
@@ -251,12 +267,12 @@
       <workItem from="1554357418701" duration="179000" />
       <workItem from="1554373974999" duration="1141000" />
       <workItem from="1556364663350" duration="574000" />
-      <workItem from="1556365983278" duration="27679000" />
+      <workItem from="1556365983278" duration="28865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47760000" />
+    <option name="totallyTimeSpent" value="48946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="6" />
@@ -493,6 +509,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/AppendAndDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -503,13 +530,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/AppendAndDelete.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SherlockAndSquares.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="135">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding>
-            <element signature="e#872#873#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
           </folding>
         </state>
       </provider>
