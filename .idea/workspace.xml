@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/CutTheSticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/NonDivisibleSubset.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/CutTheSticks.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -46,6 +46,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/NonDivisibleSubset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -92,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/com/ansou/algo/SherlockAndSquares.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/LibraryFine.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/CutTheSticks.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/NonDivisibleSubset.java" />
       </list>
     </option>
   </component>
@@ -135,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558380338880" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558472194531" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -159,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CutTheSticks">
+  <component name="RunManager" selected="Application.NonDivisibleSubset">
     <configuration name="AppendAndDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ansou.algo.AppendAndDelete" />
       <module name="AlghoTraining" />
@@ -186,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtraLongFactorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.ExtraLongFactorials" />
+    <configuration name="LibraryFine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.LibraryFine" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryFine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.LibraryFine" />
+    <configuration name="NonDivisibleSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.NonDivisibleSubset" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -234,19 +244,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.ExtraLongFactorials" />
       <item itemvalue="Application.AppendAndDelete" />
       <item itemvalue="Application.SherlockAndSquares" />
       <item itemvalue="Application.LibraryFine" />
       <item itemvalue="Application.CutTheSticks" />
+      <item itemvalue="Application.NonDivisibleSubset" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NonDivisibleSubset" />
         <item itemvalue="Application.CutTheSticks" />
         <item itemvalue="Application.LibraryFine" />
         <item itemvalue="Application.SherlockAndSquares" />
         <item itemvalue="Application.AppendAndDelete" />
-        <item itemvalue="Application.ExtraLongFactorials" />
       </list>
     </recent_temporary>
   </component>
@@ -265,12 +275,12 @@
       <workItem from="1554357418701" duration="179000" />
       <workItem from="1554373974999" duration="1141000" />
       <workItem from="1556364663350" duration="574000" />
-      <workItem from="1556365983278" duration="35959000" />
+      <workItem from="1556365983278" duration="37859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56040000" />
+    <option name="totallyTimeSpent" value="57940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="6" />
@@ -533,16 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/MiniMaxSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -567,6 +567,23 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/NonDivisibleSubset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
         </state>
       </provider>
     </entry>
