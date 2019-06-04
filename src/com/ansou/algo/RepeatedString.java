@@ -7,9 +7,13 @@ public class RepeatedString {
         for(char c : s.toCharArray())
             if(c == 'a')
                 count++;
+        System.out.println(count); // 2
         long factor = (n / s.length());
+        System.out.println(factor); // 10/3 = 3
         long rem = (n % s.length());
+        System.out.println(rem); // 10%3 = 1
         count =  factor * count  ;
+        System.out.println(count); // 3*2 = 6
         for(int i = 0; i < rem; i++)
             if(s.charAt(i) == 'a')
                 count++;
