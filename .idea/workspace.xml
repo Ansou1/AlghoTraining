@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ansou/algo/RepeatedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ansou/algo/RepeatedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/EqualizeTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,11 +72,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            <state relative-caret-position="510">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/EqualizeTheArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/com/ansou/algo/NonDivisibleSubset.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/RepeatedString.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/EqualizeTheArray.java" />
       </list>
     </option>
   </component>
@@ -167,7 +180,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559639890322" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559777218683" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -191,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JumpingOnTheClouds">
+  <component name="RunManager" selected="Application.EqualizeTheArray">
     <configuration name="CutTheSticks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ansou.algo.CutTheSticks" />
       <module name="AlghoTraining" />
@@ -205,8 +218,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpingOnTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.JumpingOnTheClouds" />
+    <configuration name="EqualizeTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.EqualizeTheArray" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -218,8 +231,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryFine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.LibraryFine" />
+    <configuration name="JumpingOnTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.JumpingOnTheClouds" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -266,19 +279,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.LibraryFine" />
       <item itemvalue="Application.CutTheSticks" />
       <item itemvalue="Application.NonDivisibleSubset" />
       <item itemvalue="Application.RepeatedString" />
       <item itemvalue="Application.JumpingOnTheClouds" />
+      <item itemvalue="Application.EqualizeTheArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualizeTheArray" />
         <item itemvalue="Application.JumpingOnTheClouds" />
         <item itemvalue="Application.RepeatedString" />
         <item itemvalue="Application.NonDivisibleSubset" />
         <item itemvalue="Application.CutTheSticks" />
-        <item itemvalue="Application.LibraryFine" />
       </list>
     </recent_temporary>
   </component>
@@ -298,12 +311,12 @@
       <workItem from="1554373974999" duration="1141000" />
       <workItem from="1556364663350" duration="574000" />
       <workItem from="1556365983278" duration="40383000" />
-      <workItem from="1558907088348" duration="4991000" />
+      <workItem from="1558907088348" duration="5743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65455000" />
+    <option name="totallyTimeSpent" value="66207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="6" />
@@ -593,16 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/RepeatedString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -614,10 +617,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="510">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/EqualizeTheArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
