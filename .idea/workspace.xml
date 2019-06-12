@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/OrganizingContainersOfBalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/Encryption.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ansou/algo/OrganizingContainersOfBalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ansou/algo/OrganizingContainersOfBalls.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,40 +28,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/QueenAttack.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/OrganizingContainersOfBalls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="94" column="28" lean-forward="true" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ACMICPCTeam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/TaumAndBday.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding>
-                <element signature="e#357#358#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/OrganizingContainersOfBalls.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/Encryption.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/com/ansou/algo/ACMICPCTeam.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/TaumAndBday.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/OrganizingContainersOfBalls.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/Encryption.java" />
       </list>
     </option>
   </component>
@@ -165,7 +150,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560252378551" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560337116710" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -189,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OrganizingContainersOfBalls">
+  <component name="RunManager" selected="Application.Encryption">
     <configuration name="ACMICPCTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ansou.algo.ACMICPCTeam" />
       <module name="AlghoTraining" />
@@ -203,8 +188,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualizeTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.EqualizeTheArray" />
+    <configuration name="Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.Encryption" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -264,19 +249,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.EqualizeTheArray" />
       <item itemvalue="Application.QueenAttack" />
       <item itemvalue="Application.ACMICPCTeam" />
       <item itemvalue="Application.TaumAndBday" />
       <item itemvalue="Application.OrganizingContainersOfBalls" />
+      <item itemvalue="Application.Encryption" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Encryption" />
         <item itemvalue="Application.OrganizingContainersOfBalls" />
         <item itemvalue="Application.TaumAndBday" />
         <item itemvalue="Application.ACMICPCTeam" />
         <item itemvalue="Application.QueenAttack" />
-        <item itemvalue="Application.EqualizeTheArray" />
       </list>
     </recent_temporary>
   </component>
@@ -296,12 +281,12 @@
       <workItem from="1554373974999" duration="1141000" />
       <workItem from="1556364663350" duration="574000" />
       <workItem from="1556365983278" duration="40383000" />
-      <workItem from="1558907088348" duration="28766000" />
+      <workItem from="1558907088348" duration="31572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89230000" />
+    <option name="totallyTimeSpent" value="92036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="6" />
@@ -619,10 +604,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/QueenAttack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/TaumAndBday.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="94" column="28" lean-forward="true" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="28" />
+        <state relative-caret-position="150">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -633,13 +621,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/TaumAndBday.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/QueenAttack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1242">
+          <caret line="94" column="28" lean-forward="true" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/OrganizingContainersOfBalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -653,10 +645,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/OrganizingContainersOfBalls.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/Encryption.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

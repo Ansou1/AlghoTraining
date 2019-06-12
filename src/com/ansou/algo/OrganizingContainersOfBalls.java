@@ -24,9 +24,8 @@ public class OrganizingContainersOfBalls {
 
     public static void main(String[] args) {
         int[][] container = {
-                {0,2,1},
-                {1,1,1},
-                {2,0,0}
+                {0,2},
+                {1,1}
         };
         System.out.println(organizingContainers(container));
     }
