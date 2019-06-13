@@ -2,13 +2,13 @@ package com.ansou.algo;
 
 public class BiggerIsGreater {
 
-    public static boolean nextPermutation(int[] array) {
+    static String nextPermutation(int[] array) {
         // Find non-increasing suffix
         int i = array.length - 1;
         while (i > 0 && array[i - 1] >= array[i])
             i--;
         if (i <= 0)
-            return false;
+            return "no answer";
 
         // Find successor to pivot
         int j = array.length - 1;
@@ -27,11 +27,20 @@ public class BiggerIsGreater {
             i++;
             j--;
         }
-        return true;
+        String result = "";
+        for (int item : array)
+            result += (char)item;
+        return result;
     }
 
     static String biggerIsGreater(String w) {
+        char[] charArray = w.toCharArray();
+        int[] array = new int[w.length()];
 
+        for (int i = 0; i < charArray.length; i++) {
+            array[i] = charArray[i];
+        }
+        return nextPermutation(array);
     }
 
     public static void main(String[] args) {
@@ -46,7 +55,7 @@ public class BiggerIsGreater {
         };
 
         for (String item : test) {
-            biggerIsGreater(item);
+            System.out.println(biggerIsGreater(item));
         }
     }
 }
