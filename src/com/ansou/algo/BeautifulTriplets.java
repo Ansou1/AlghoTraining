@@ -23,5 +23,8 @@ public class BeautifulTriplets {
     public static void main(String[] args) {
         int[] arr = {1, 6, 7, 7, 8, 10, 12, 13, 14, 19};
         System.out.println(beautifulTriplets(3, arr));
+
+        int[] arr2 = {1, 6, 7, 8, 10, 12, 13, 14, 19};
+        System.out.println(beautifulTriplets(3, arr2));
     }
 }
