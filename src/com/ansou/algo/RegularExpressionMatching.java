@@ -46,10 +46,10 @@ public class RegularExpressionMatching {
     }
 
     public static void main(String[] args) {
-        System.out.println(isMatch("simon", "simon"));
-        System.out.println(isMatch("aa", "a"));
-        System.out.println(isMatch("aa", "a*"));
-        System.out.println(isMatch("ab", ".*"));
-        System.out.println(isMatch("mississippi", "mis*is*p*."));
+        System.out.println(isMatch("simon", "simon")); // true
+        System.out.println(isMatch("aa", "a")); // false
+        System.out.println(isMatch("aa", "a*")); // true
+        System.out.println(isMatch("ab", ".*")); // true
+        System.out.println(isMatch("mississippi", "mis*is*p*.")); // false
     }
 }
