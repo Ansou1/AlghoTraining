@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/MergeKSortedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,14 +26,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/GenerateParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state>
+              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/MergeKSortedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/MergeTwoSortedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="68" column="9" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="68" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -71,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/OperationsOnArrayList.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/QueueOperations.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/OperationsOnPriorityQueue.java" />
@@ -122,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/com/ansou/algo/ValidParenthesis.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/MergeKSortedLists.java" />
       </list>
     </option>
   </component>
@@ -164,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562056442363" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562141520543" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -188,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenerateParentheses">
+  <component name="RunManager" selected="Application.MergeKSortedLists">
     <configuration name="ACMICPCTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ansou.algo.ACMICPCTeam" />
       <module name="AlghoTraining" />
@@ -215,8 +233,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.MergeTwoSortedLists" />
+    <configuration name="MergeKSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.MergeKSortedLists" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -228,8 +246,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParenthesisChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.ParenthesisChecker" />
+    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.MergeTwoSortedLists" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -263,19 +281,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.ParenthesisChecker" />
       <item itemvalue="Application.ValidParenthesis" />
       <item itemvalue="Application.MergeTwoSortedLists" />
       <item itemvalue="Application.ACMICPCTeam" />
       <item itemvalue="Application.GenerateParentheses" />
+      <item itemvalue="Application.MergeKSortedLists" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeKSortedLists" />
         <item itemvalue="Application.GenerateParentheses" />
         <item itemvalue="Application.ACMICPCTeam" />
         <item itemvalue="Application.MergeTwoSortedLists" />
         <item itemvalue="Application.ValidParenthesis" />
-        <item itemvalue="Application.ParenthesisChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -295,15 +313,16 @@
       <workItem from="1554373974999" duration="1141000" />
       <workItem from="1556364663350" duration="574000" />
       <workItem from="1556365983278" duration="40383000" />
-      <workItem from="1558907088348" duration="97240000" />
+      <workItem from="1558907088348" duration="100088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157704000" />
+    <option name="totallyTimeSpent" value="160552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1256656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -340,13 +359,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ReverseFirstKElementsOfQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ReverseAStringUsingStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -748,17 +760,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ACMICPCTeam.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/Backtracking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -772,20 +784,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/Backtracking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/GenerateParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/MergeTwoSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="68" column="9" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/MergeKSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>
