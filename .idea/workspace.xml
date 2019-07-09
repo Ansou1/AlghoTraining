@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/DivideTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/SubstringWithConcatenationOfAllWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="285">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,11 +53,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/DivideTwoIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="523">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SubstringWithConcatenationOfAllWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+              <folding>
+                <element signature="e#804#821#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ansou/algo/ReverseWordsInAGivenString.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/PermutationsOfAGivenString.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/DiagonalDifference.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/PlusMinus.java" />
@@ -137,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/com/ansou/algo/RemoveElement.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/Strstr.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/DivideTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/SubstringWithConcatenationOfAllWords.java" />
       </list>
     </option>
   </component>
@@ -179,7 +191,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562454474458" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562678988987" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -203,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DivideTwoIntegers">
+  <component name="RunManager" selected="Application.SubstringWithConcatenationOfAllWords">
     <configuration name="DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ansou.algo.DivideTwoIntegers" />
       <module name="AlghoTraining" />
@@ -243,8 +255,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNodesInKGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.ReverseNodesInKGroup" />
+    <configuration name="Strstr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.Strstr" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -256,8 +268,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strstr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.Strstr" />
+    <configuration name="SubstringWithConcatenationOfAllWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.SubstringWithConcatenationOfAllWords" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -278,19 +290,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.ReverseNodesInKGroup" />
       <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
       <item itemvalue="Application.RemoveElement" />
       <item itemvalue="Application.Strstr" />
       <item itemvalue="Application.DivideTwoIntegers" />
+      <item itemvalue="Application.SubstringWithConcatenationOfAllWords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubstringWithConcatenationOfAllWords" />
         <item itemvalue="Application.DivideTwoIntegers" />
         <item itemvalue="Application.Strstr" />
         <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-        <item itemvalue="Application.ReverseNodesInKGroup" />
       </list>
     </recent_temporary>
   </component>
@@ -310,12 +322,12 @@
       <workItem from="1554373974999" duration="1141000" />
       <workItem from="1556364663350" duration="574000" />
       <workItem from="1556365983278" duration="40383000" />
-      <workItem from="1558907088348" duration="114076000" />
+      <workItem from="1558907088348" duration="117121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174540000" />
+    <option name="totallyTimeSpent" value="177585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="6" />
@@ -357,13 +369,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SequenceEquation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/PlusMinus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -775,20 +780,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/DivideTwoIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="285">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/DivideTwoIntegers.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SubstringWithConcatenationOfAllWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="401">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="e#804#821#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
