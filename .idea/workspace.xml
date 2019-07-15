@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="210">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#164#165#0" expanded="true" />
@@ -178,7 +177,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563185054611" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563187041044" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -310,12 +309,12 @@
       <workItem from="1556364663350" duration="574000" />
       <workItem from="1556365983278" duration="40383000" />
       <workItem from="1558907088348" duration="124704000" />
-      <workItem from="1563024610362" duration="7227000" />
+      <workItem from="1563024610362" duration="7863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192395000" />
+    <option name="totallyTimeSpent" value="193031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="0" />
@@ -790,8 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding>
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#164#165#0" expanded="true" />
