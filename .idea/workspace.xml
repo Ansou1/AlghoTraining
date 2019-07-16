@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/SearchInsertPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,15 +48,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="-542">
               <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#164#165#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SearchInsertPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -84,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ansou/algo/MiniMaxSum.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/BirthdayCakeCandles.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/CompareTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/TimeConversion.java" />
@@ -135,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/com/ansou/algo/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/SearchInRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/SearchInsertPosition.java" />
       </list>
     </option>
   </component>
@@ -177,7 +187,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563187041044" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563273401546" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -201,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindFirstLastPositionElementSortedArray">
+  <component name="RunManager" selected="Application.SearchInsertPosition">
     <configuration name="FindFirstLastPositionElementSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ansou.algo.FindFirstLastPositionElementSortedArray" />
       <module name="AlghoTraining" />
@@ -254,8 +264,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstringWithConcatenationOfAllWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.SubstringWithConcatenationOfAllWords" />
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.SearchInsertPosition" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -276,19 +286,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.SubstringWithConcatenationOfAllWords" />
       <item itemvalue="Application.NextPermutation" />
       <item itemvalue="Application.LongestValidParentheses" />
       <item itemvalue="Application.SearchInRotatedSortedArray" />
       <item itemvalue="Application.FindFirstLastPositionElementSortedArray" />
+      <item itemvalue="Application.SearchInsertPosition" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.FindFirstLastPositionElementSortedArray" />
         <item itemvalue="Application.SearchInRotatedSortedArray" />
         <item itemvalue="Application.LongestValidParentheses" />
         <item itemvalue="Application.NextPermutation" />
-        <item itemvalue="Application.SubstringWithConcatenationOfAllWords" />
       </list>
     </recent_temporary>
   </component>
@@ -309,12 +319,12 @@
       <workItem from="1556364663350" duration="574000" />
       <workItem from="1556365983278" duration="40383000" />
       <workItem from="1558907088348" duration="124704000" />
-      <workItem from="1563024610362" duration="7863000" />
+      <workItem from="1563024610362" duration="11051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193031000" />
+    <option name="totallyTimeSpent" value="196219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="0" />
@@ -356,16 +366,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/TaumAndBday.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/QueenAttack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1242">
@@ -770,6 +770,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SearchInRotatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-542">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -780,21 +798,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SearchInRotatedSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/SearchInsertPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FindFirstLastPositionElementSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
         </state>
       </provider>
     </entry>
