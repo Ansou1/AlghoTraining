@@ -1,19 +1,6 @@
 package com.ansou.algo;
 
 public class RegularExpressionMatching {
-
-
-    /*
-    **    '.' Matches any single character.
-    **    '*' Matches zero or more of the preceding element.
-    **
-    **    The matching should cover the entire input string (not partial).
-    **
-    **    Note:
-    **
-    **        s could be empty and contains only lowercase letters a-z.
-    **        p could be empty and contains only lowercase letters a-z, and characters like . or *.
-    */
     public static boolean isMatch(String s, String p) {
         int m = s.length(), n = p.length();
         boolean[][] dp = new boolean[m+1][n+1];
