@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c39f30d-68d7-4430-8a2f-f50a67d3754a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ansou/algo/TrappingRainWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ansou/algo/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ansou/algo/ContainerWithMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ansou/algo/RegularExpressionMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ansou/algo/RegularExpressionMatching.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,11 +50,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FirstMissingPositive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/TrappingRainWater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ansou/algo/AppendAndDelete.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/SherlockAndSquares.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/LibraryFine.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/CutTheSticks.java" />
@@ -164,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/com/ansou/algo/ContainerWithMostWater.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/FirstMissingPositive.java" />
         <option value="$PROJECT_DIR$/src/com/ansou/algo/RegularExpressionMatching.java" />
+        <option value="$PROJECT_DIR$/src/com/ansou/algo/TrappingRainWater.java" />
       </list>
     </option>
   </component>
@@ -206,7 +217,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563785712048" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563868747015" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -230,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstMissingPositive">
+  <component name="RunManager" selected="Application.TrappingRainWater">
     <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ansou.algo.CombinationSum" />
       <module name="AlghoTraining" />
@@ -283,8 +294,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SudokuSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.SudokuSolver" />
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ansou.algo.TrappingRainWater" />
       <module name="AlghoTraining" />
       <extension name="coverage">
         <pattern>
@@ -305,19 +316,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.SudokuSolver" />
       <item itemvalue="Application.CountAndSay" />
       <item itemvalue="Application.CombinationSum" />
       <item itemvalue="Application.CombinationSumII" />
       <item itemvalue="Application.FirstMissingPositive" />
+      <item itemvalue="Application.TrappingRainWater" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrappingRainWater" />
         <item itemvalue="Application.FirstMissingPositive" />
         <item itemvalue="Application.CombinationSumII" />
         <item itemvalue="Application.CombinationSum" />
         <item itemvalue="Application.CountAndSay" />
-        <item itemvalue="Application.SudokuSolver" />
       </list>
     </recent_temporary>
   </component>
@@ -338,18 +349,18 @@
       <workItem from="1556364663350" duration="574000" />
       <workItem from="1556365983278" duration="40383000" />
       <workItem from="1558907088348" duration="124704000" />
-      <workItem from="1563024610362" duration="40758000" />
+      <workItem from="1563024610362" duration="41508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225926000" />
+    <option name="totallyTimeSpent" value="226676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1105" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2028754" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2028754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,7 +369,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32971373" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30404738" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30404738" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39980257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -385,17 +396,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FindDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/JumpingOnTheClouds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -761,16 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/CombinationSumII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -797,8 +787,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/FirstMissingPositive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/ArrayListOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ansou/algo/TrappingRainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
